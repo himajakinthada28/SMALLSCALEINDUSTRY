@@ -1,0 +1,20 @@
+{
+  "engineName": "small-scale-industries",
+  "hostIdentifier": "host-zhpm8e",
+  "endpointBase": "https://host-zhpm8e.api.swiftype.com",
+  "searchKey": "search-opu5wmqmab21y18639amqfno",
+  "resultFields": [
+    "particulars",
+    "rating",
+    "state",
+    "price",
+    "id"
+  ],
+  "sortFields": [
+    "rating"
+  ],
+  "facets": [
+    "rating"
+  ],
+  "titleField": "particulars"
+}
